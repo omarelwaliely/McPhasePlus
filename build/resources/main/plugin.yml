@@ -1,4 +1,0 @@
-name: McPhasePlus
-version: '1.0-SNAPSHOT'
-main: io.github.osplugins.mcPhasePlus.McPhasePlus
-api-version: '1.21'
