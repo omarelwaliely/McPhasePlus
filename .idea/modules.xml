@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/McPhasePlus.iml" filepath="$PROJECT_DIR$/.idea/modules/McPhasePlus.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/McPhasePlus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/McPhasePlus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/McPhasePlus.test.iml" filepath="$PROJECT_DIR$/.idea/modules/McPhasePlus.test.iml" />
     </modules>
   </component>
 </project>
